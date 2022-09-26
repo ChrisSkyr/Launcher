@@ -1,0 +1,11 @@
+C:\Users\Family\Desktop\Astro Rancher\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache
+C:\Users\Family\Desktop\Astro Rancher\Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Family\Desktop\Astro Rancher\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Users\Family\Desktop\Astro Rancher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Family\Desktop\Astro Rancher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Family\Desktop\Astro Rancher\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Family\Desktop\Astro Rancher\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\Family\Desktop\Astro Rancher\Launcher\bin\Debug\Launcher.exe
+C:\Users\Family\Desktop\Astro Rancher\Launcher\bin\Debug\Launcher.pdb
+C:\Users\Family\Desktop\Astro Rancher\Launcher\obj\Debug\Launcher.exe
+C:\Users\Family\Desktop\Astro Rancher\Launcher\obj\Debug\Launcher.pdb
